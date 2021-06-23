@@ -1,0 +1,56 @@
+
+model: WAR=? WAG=? WAB=? NTR=? SAR=? NTB=? SAB=? NTG=? SAG=? QR=? QB=? QG=? NSWR=? VR=? NSWB=? VB=? NSWG=? VG=? TR=? TG=? TB=? 
+num clauses satisfied: 0 out of 58
+trying WAR=1
+
+model: WAR=T WAG=? WAB=? NTR=? SAR=? NTB=? SAB=? NTG=? SAG=? QR=? QB=? QG=? NSWR=? VR=? NSWB=? VB=? NSWG=? VG=? TR=? TG=? TB=? 
+num clauses satisfied: 1 out of 58
+trying WAG=1
+backtracking...
+trying WAG=0
+
+model: WAG=F WAR=T WAB=? NTR=? SAR=? NTB=? SAB=? NTG=? SAG=? QR=? QB=? QG=? NSWR=? VR=? NSWB=? VB=? NSWG=? VG=? TR=? TG=? TB=? 
+num clauses satisfied: 2 out of 58
+trying WAB=1
+backtracking...
+trying WAB=0
+
+model: WAB=F WAR=T WAG=F NTR=? SAR=? NTB=? SAB=? NTG=? SAG=? QR=? QB=? QG=? NSWR=? VR=? NSWB=? VB=? NSWG=? VG=? TR=? TG=? TB=? 
+num clauses satisfied: 5 out of 58
+trying NTR=1
+backtracking...
+trying NTR=0
+
+model: WAB=F NTR=F WAR=T WAG=F SAR=? NTB=? SAB=? NTG=? SAG=? QR=? QB=? QG=? NSWR=? VR=? NSWB=? VB=? NSWG=? VG=? TR=? TG=? TB=? 
+num clauses satisfied: 6 out of 58
+trying SAR=1
+backtracking...
+trying SAR=0
+
+model: SAR=F WAB=F NTR=F WAR=T WAG=F NTB=? SAB=? NTG=? SAG=? QR=? QB=? QG=? NSWR=? VR=? NSWB=? VB=? NSWG=? VG=? TR=? TG=? TB=? 
+num clauses satisfied: 8 out of 58
+trying NTB=1
+backtracking...
+trying NTB=0
+
+model: NTB=F SAR=F WAB=F NTR=F WAR=T WAG=F SAB=? NTG=? SAG=? QR=? QB=? QG=? NSWR=? VR=? NSWB=? VB=? NSWG=? VG=? TR=? TG=? TB=? 
+num clauses satisfied: 11 out of 58
+trying SAB=1
+backtracking...
+trying SAB=0
+
+model: WAG=F WAR=T NTR=F WAB=F SAR=F SAB=F NTB=F NTG=? SAG=? QR=? QB=? QG=? NSWR=? VR=? NSWB=? VB=? NSWG=? VG=? TR=? TG=? TB=? 
+num clauses satisfied: 15 out of 58
+trying NTG=1
+
+model: NTG=T WAG=F WAR=T NTR=F WAB=F SAR=F SAB=F NTB=F SAG=? QR=? QB=? QG=? NSWR=? VR=? NSWB=? VB=? NSWG=? VG=? TR=? TG=? TB=? 
+num clauses satisfied: 19 out of 58
+trying SAG=1
+backtracking...
+trying SAG=0
+backtracking...
+trying NTG=0
+backtracking...
+trying WAR=0
+backtracking...
+Unsatisfiable

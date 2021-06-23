@@ -1,0 +1,229 @@
+Australia Map Problem Results
+
+With unit-clause heuristic
+Input file: mapcolor.cnf
+Output file: DPLL_mapcolor.txt
+Satisfiable?: Yes
+Backtracking?: No
+Number of DPLL calls: 22
+Model: 
+NSWB : 1
+NSWG : 0
+NSWR : 0
+NTB : 1
+NTG : 0
+NTR : 0
+QB : 0
+QG : 0
+QR : 1
+SAB : 0
+SAG : 1
+SAR : 0
+TB : 0
+TG : 0
+TR : 1
+VB : 0
+VG : 0
+VR : 1
+WAB : 0
+WAG : 0
+WAR : 1
+
+Without unit-clause heuristic
+Input file: mapcolor.cnf
+Output file: DPLL_mapcolor_without_UCH.txt
+Satisfiable?: Yes
+Backtracking?: Yes
+Number of DPLL calls: 36
+Model:
+NSWB : 1
+NSWG : 0
+NSWR : 0
+NTB : 1
+NTG : 0
+NTR : 0
+QB : 0
+QG : 0
+QR : 1
+SAB : 0
+SAG : 1
+SAR : 0
+TB : 0
+TG : 0
+TR : 1
+VB : 0
+VG : 0
+VR : 1
+WAB : 0
+WAG : 0
+WAR : 1
+
+With unit-clause heuristic
+Input file: mapcolor2.cnf
+Output file: DPLL_mapcolor2.txt
+Satisfiable?: No
+Backtracking?: Yes
+Number of DPLL calls: N/A
+Model: N/A
+
+Without unit-clause heuristic
+Input file: mapcolor2.cnf
+Output file: DPLL_mapcolor2_without_UCH.txt
+Satisfiable?: No
+Backtracking?: Yes
+Number of DPLL calls: N/A
+Model: N/A
+
+With unit-clause heuristic
+Input file: mapcolor3.cnf
+Output file: DPLL_mapcolor3.txt
+Satisfiable?: No
+Backtracking?: Yes
+Number of DPLL calls: N/A
+Model: N/A
+
+Without unit-clause heuristic
+Input file: mapcolor3.cnf
+Output file: DPLL_mapcolor3_without_UCH.txt
+Satisfiable?: No
+Backtracking?: Yes
+Number of DPLL calls: N/A
+Model: N/A
+
+N-Queens Problem
+
+With unit-clause heuristic
+Input file: 4queens.cnf
+Output file: DPLL_4queens.txt
+Satisfiable?: Yes
+Backtracking?: Yes
+Number of DPLL calls: 39
+Model: 
+Q11 : 0
+Q12 : 1
+Q13 : 0
+Q14 : 0
+Q21 : 0
+Q22 : 0
+Q23 : 0
+Q24 : 1
+Q31 : 1
+Q32 : 0
+Q33 : 0
+Q34 : 0
+Q41 : 0
+Q42 : 0
+Q43 : 1
+Q44 : 0
+
+Without unit-clause heuristic
+Input file: 4queens.cnf
+Output file: DPLL_4queens_without_UCH.txt
+Satisfiable?: Yes
+Backtracking?: Yes
+Number of DPLL calls: 73
+Model: 
+Q11 : 0
+Q12 : 1
+Q13 : 0
+Q14 : 0
+Q21 : 0
+Q22 : 0
+Q23 : 0
+Q24 : 1
+Q31 : 1
+Q32 : 0
+Q33 : 0
+Q34 : 0
+Q41 : 0
+Q42 : 0
+Q43 : 1
+Q44 : 0
+
+With unit-clause heuristic
+Input file: 6queens.cnf
+Output file: DPLL_6queens.txt
+Satisfiable?: Yes
+Backtracking?: Yes
+Number of DPLL calls: 150
+Model: 
+Q11 : 0
+Q12 : 1
+Q13 : 0
+Q14 : 0
+Q15 : 0
+Q16 : 0
+Q21 : 0
+Q22 : 0
+Q23 : 0
+Q24 : 1
+Q25 : 0
+Q26 : 0
+Q31 : 0
+Q32 : 0
+Q33 : 0
+Q34 : 0
+Q35 : 0
+Q36 : 1
+Q41 : 1
+Q42 : 0
+Q43 : 0
+Q44 : 0
+Q45 : 0
+Q46 : 0
+Q51 : 0
+Q52 : 0
+Q53 : 1
+Q54 : 0
+Q55 : 0
+Q56 : 0
+Q61 : 0
+Q62 : 0
+Q63 : 0
+Q64 : 0
+Q65 : 1
+Q66 : 0
+
+Without unit-clause heuristic
+Input file: 6queens.cnf
+Output file: DPLL_6queens_without_UCH.txt
+Satisfiable?: Yes
+Backtracking?: Yes
+Number of DPLL calls: 487
+Model: 
+Q11 : 0
+Q12 : 1
+Q13 : 0
+Q14 : 0
+Q15 : 0
+Q16 : 0
+Q21 : 0
+Q22 : 0
+Q23 : 0
+Q24 : 1
+Q25 : 0
+Q26 : 0
+Q31 : 0
+Q32 : 0
+Q33 : 0
+Q34 : 0
+Q35 : 0
+Q36 : 1
+Q41 : 1
+Q42 : 0
+Q43 : 0
+Q44 : 0
+Q45 : 0
+Q46 : 0
+Q51 : 0
+Q52 : 0
+Q53 : 1
+Q54 : 0
+Q55 : 0
+Q56 : 0
+Q61 : 0
+Q62 : 0
+Q63 : 0
+Q64 : 0
+Q65 : 1
+Q66 : 0

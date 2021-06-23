@@ -1,0 +1,1254 @@
+iteration=0, clauses=1155
+resolving clauses 1 and 240: (or (not W11) S12), (or (not S12))
+resolvent = (or (not W11))
+274. (or (not W11))
+
+iteration=1, clauses=1157
+resolving clauses 2 and 250: (or (not W12) S22), (or (not S22))
+resolvent = (or (not W12))
+
+
+iteration=2, clauses=1156
+resolving clauses 6 and 240: (or (not W13) S12), (or (not S12))
+resolvent = (or (not W13))
+
+
+iteration=3, clauses=1155
+resolving clauses 13 and 240: (or (not W22) S12), (or (not S12))
+resolvent = (or (not W22))
+
+
+iteration=4, clauses=1154
+resolving clauses 54 and 239: (or (not P13) B12), (or (not B12))
+resolvent = (or (not P13))
+
+
+iteration=5, clauses=1153
+resolving clauses 55 and 229: (or (not P13) B14), (or (not B14))
+resolvent = (or (not P13))
+
+
+iteration=6, clauses=1152
+resolving clauses 101 and 248: (or W22 P22 safe22), (or (not P22))
+resolvent = (or W22 safe22)
+275. (or W22 safe22)
+
+iteration=7, clauses=1167
+resolving clauses 101 and 251: (or W22 P22 safe22), (or (not W22))
+resolvent = (or P22 safe22)
+276. (or P22 safe22)
+
+iteration=8, clauses=1171
+resolving clauses 99 and 228: (or W14 P14 safe14), (or (not P14))
+resolvent = (or W14 safe14)
+277. (or W14 safe14)
+
+iteration=9, clauses=1179
+resolving clauses 99 and 231: (or W14 P14 safe14), (or (not W14))
+resolvent = (or P14 safe14)
+278. (or P14 safe14)
+
+iteration=10, clauses=1181
+resolving clauses 12 and 250: (or (not W21) S22), (or (not S22))
+resolvent = (or (not W21))
+279. (or (not W21))
+
+iteration=11, clauses=1184
+resolving clauses 98 and 233: (or W13 P13 safe13), (or (not P13))
+resolvent = (or W13 safe13)
+280. (or W13 safe13)
+
+iteration=12, clauses=1196
+resolving clauses 98 and 236: (or W13 P13 safe13), (or (not W13))
+resolvent = (or P13 safe13)
+281. (or P13 safe13)
+
+iteration=13, clauses=1199
+resolving clauses 49 and 239: (or (not P11) B12), (or (not B12))
+resolvent = (or (not P11))
+282. (or (not P11))
+
+iteration=14, clauses=1201
+resolving clauses 97 and 238: (or W12 P12 safe12), (or (not P12))
+resolvent = (or W12 safe12)
+283. (or W12 safe12)
+
+iteration=15, clauses=1216
+resolving clauses 97 and 241: (or W12 P12 safe12), (or (not W12))
+resolvent = (or P12 safe12)
+284. (or P12 safe12)
+
+iteration=16, clauses=1219
+resolving clauses 20 and 245: (or (not W23) S24), (or (not S24))
+resolvent = (or (not W23))
+285. (or (not W23))
+
+iteration=17, clauses=1223
+resolving clauses 21 and 230: (or (not W24) S14), (or (not S14))
+resolvent = (or (not W24))
+
+
+iteration=18, clauses=1222
+resolving clauses 44 and 270: (or (not W43) S42), (or (not S42))
+resolvent = (or (not W43))
+286. (or (not W43))
+
+iteration=19, clauses=1225
+resolving clauses 45 and 265: (or (not W43) S44), (or (not S44))
+resolvent = (or (not W43))
+
+
+iteration=20, clauses=1224
+resolving clauses 94 and 254: (or (not P44) B34), (or (not B34))
+resolvent = (or (not P44))
+
+
+iteration=21, clauses=1223
+resolving clauses 93 and 264: (or (not P43) B44), (or (not B44))
+resolvent = (or (not P43))
+287. (or (not P43))
+
+iteration=22, clauses=1226
+resolving clauses 285 and 222: (or (not W23)), (or (not S33) W43 W23 W34 W32)
+resolvent = (or (not S33) W43 W34 W32)
+288. (or (not S33) W43 W34 W32)
+
+iteration=23, clauses=1271
+resolving clauses 84 and 264: (or (not P34) B44), (or (not B44))
+resolvent = (or (not P34))
+
+
+iteration=24, clauses=1270
+resolving clauses 88 and 259: (or (not P42) B32), (or (not B32))
+resolvent = (or (not P42))
+
+
+iteration=25, clauses=1269
+resolving clauses 286 and 222: (or (not W43)), (or (not S33) W43 W23 W34 W32)
+resolvent = (or (not S33) W23 W34 W32)
+289. (or (not S33) W23 W34 W32)
+
+iteration=26, clauses=1313
+resolving clauses 4 and 235: (or (not W12) S13), (or (not S13))
+resolvent = (or (not W12))
+
+
+iteration=27, clauses=1312
+resolving clauses 9 and 235: (or (not W14) S13), (or (not S13))
+resolvent = (or (not W14))
+
+
+iteration=28, clauses=1311
+resolving clauses 19 and 250: (or (not W23) S22), (or (not S22))
+resolvent = (or (not W23))
+
+
+iteration=29, clauses=1310
+resolving clauses 39 and 270: (or (not W41) S42), (or (not S42))
+resolvent = (or (not W41))
+290. (or (not W41))
+
+iteration=30, clauses=1312
+resolving clauses 81 and 259: (or (not P33) B32), (or (not B32))
+resolvent = (or (not P33))
+291. (or (not P33))
+
+iteration=31, clauses=1316
+resolving clauses 82 and 254: (or (not P33) B34), (or (not B34))
+resolvent = (or (not P33))
+
+
+iteration=32, clauses=1315
+resolving clauses 36 and 265: (or (not W34) S44), (or (not S44))
+resolvent = (or (not W34))
+
+
+iteration=33, clauses=1314
+resolving clauses 17 and 235: (or (not W23) S13), (or (not S13))
+resolvent = (or (not W23))
+
+
+iteration=34, clauses=1313
+resolving clauses 35 and 245: (or (not W34) S24), (or (not S24))
+resolvent = (or (not W34))
+
+
+iteration=35, clauses=1312
+resolving clauses 74 and 259: (or (not P31) B32), (or (not B32))
+resolvent = (or (not P31))
+292. (or (not P31))
+
+iteration=36, clauses=1315
+resolving clauses 70 and 254: (or (not P24) B34), (or (not B34))
+resolvent = (or (not P24))
+
+
+iteration=37, clauses=1314
+resolving clauses 289 and 261: (or (not S33) W23 W34 W32), (or (not W32))
+resolvent = (or (not S33) W23 W34)
+293. (or (not S33) W23 W34)
+
+iteration=38, clauses=1345
+resolving clauses 289 and 285: (or (not S33) W23 W34 W32), (or (not W23))
+resolvent = (or (not S33) W34 W32)
+294. (or (not S33) W34 W32)
+
+iteration=39, clauses=1376
+resolving clauses 290 and 225: (or (not W41)), (or (not S42) W32 W43 W41)
+resolvent = (or (not S42) W32 W43)
+295. (or (not S42) W32 W43)
+
+iteration=40, clauses=1406
+resolving clauses 291 and 210: (or (not P33)), (or (not B43) P33 P44 P42)
+resolvent = (or (not B43) P44 P42)
+296. (or (not B43) P44 P42)
+
+iteration=41, clauses=1413
+resolving clauses 291 and 207: (or (not P33)), (or (not B34) P44 P24 P33)
+resolvent = (or (not B34) P44 P24)
+297. (or (not B34) P44 P24)
+
+iteration=42, clauses=1420
+resolving clauses 293 and 256: (or (not S33) W23 W34), (or (not W34))
+resolvent = (or (not S33) W23)
+298. (or (not S33) W23)
+
+iteration=43, clauses=1437
+resolving clauses 293 and 285: (or (not S33) W23 W34), (or (not W23))
+resolvent = (or (not S33) W34)
+299. (or (not S33) W34)
+
+iteration=44, clauses=1455
+resolving clauses 296 and 263: (or (not B43) P44 P42), (or (not P44))
+resolvent = (or (not B43) P42)
+300. (or (not B43) P42)
+
+iteration=45, clauses=1460
+resolving clauses 296 and 268: (or (not B43) P44 P42), (or (not P42))
+resolvent = (or (not B43) P44)
+301. (or (not B43) P44)
+
+iteration=46, clauses=1464
+resolving clauses 297 and 243: (or (not B34) P44 P24), (or (not P24))
+resolvent = (or (not B34) P44)
+302. (or (not B34) P44)
+
+iteration=47, clauses=1468
+resolving clauses 297 and 263: (or (not B34) P44 P24), (or (not P44))
+resolvent = (or (not B34) P24)
+303. (or (not B34) P24)
+
+iteration=48, clauses=1473
+resolving clauses 298 and 285: (or (not S33) W23), (or (not W23))
+resolvent = (or (not S33))
+304. (or (not S33))
+
+iteration=49, clauses=1476
+resolving clauses 299 and 256: (or (not S33) W34), (or (not W34))
+resolvent = (or (not S33))
+
+
+iteration=50, clauses=1475
+resolving clauses 300 and 268: (or (not B43) P42), (or (not P42))
+resolvent = (or (not B43))
+305. (or (not B43))
+
+iteration=51, clauses=1477
+resolving clauses 301 and 263: (or (not B43) P44), (or (not P44))
+resolvent = (or (not B43))
+
+
+iteration=52, clauses=1476
+resolving clauses 303 and 243: (or (not B34) P24), (or (not P24))
+resolvent = (or (not B34))
+
+
+iteration=53, clauses=1475
+resolving clauses 304 and 18: (or (not S33)), (or (not W23) S33)
+resolvent = (or (not W23))
+
+
+iteration=54, clauses=1474
+resolving clauses 304 and 30: (or (not S33)), (or (not W32) S33)
+resolvent = (or (not W32))
+
+
+iteration=55, clauses=1473
+resolving clauses 304 and 37: (or (not S33)), (or (not W34) S33)
+resolvent = (or (not W34))
+
+
+iteration=56, clauses=1472
+resolving clauses 304 and 43: (or (not S33)), (or (not W43) S33)
+resolvent = (or (not W43))
+
+
+iteration=57, clauses=1471
+resolving clauses 305 and 80: (or (not B43)), (or (not P33) B43)
+resolvent = (or (not P33))
+
+
+iteration=58, clauses=1470
+resolving clauses 305 and 90: (or (not B43)), (or (not P42) B43)
+resolvent = (or (not P42))
+
+
+iteration=59, clauses=1469
+resolving clauses 305 and 95: (or (not B43)), (or (not P44) B43)
+resolvent = (or (not P44))
+
+
+iteration=60, clauses=1468
+resolving clauses 302 and 263: (or (not B34) P44), (or (not P44))
+resolvent = (or (not B34))
+
+
+iteration=61, clauses=1467
+resolving clauses 294 and 261: (or (not S33) W34 W32), (or (not W32))
+resolvent = (or (not S33) W34)
+
+
+iteration=62, clauses=1466
+resolving clauses 295 and 261: (or (not S42) W32 W43), (or (not W32))
+resolvent = (or (not S42) W43)
+306. (or (not S42) W43)
+
+iteration=63, clauses=1483
+resolving clauses 295 and 286: (or (not S42) W32 W43), (or (not W43))
+resolvent = (or (not S42) W32)
+307. (or (not S42) W32)
+
+iteration=64, clauses=1499
+resolving clauses 294 and 256: (or (not S33) W34 W32), (or (not W34))
+resolvent = (or (not S33) W32)
+308. (or (not S33) W32)
+
+iteration=65, clauses=1516
+resolving clauses 291 and 106: (or (not P33)), (or W33 P33 safe33)
+resolvent = (or W33 safe33)
+309. (or W33 safe33)
+
+iteration=66, clauses=1531
+resolving clauses 306 and 286: (or (not S42) W43), (or (not W43))
+resolvent = (or (not S42))
+
+
+iteration=67, clauses=1530
+resolving clauses 307 and 261: (or (not S42) W32), (or (not W32))
+resolvent = (or (not S42))
+
+
+iteration=68, clauses=1529
+resolving clauses 308 and 261: (or (not S33) W32), (or (not W32))
+resolvent = (or (not S33))
+
+
+iteration=69, clauses=1528
+resolving clauses 309 and 273: (or W33 safe33), (or (not W33))
+resolvent = (or safe33)
+310. (or safe33)
+
+iteration=70, clauses=1527
+resolving clauses 291 and 205: (or (not P33)), (or (not B32) P42 P22 P33 P31)
+resolvent = (or (not B32) P42 P22 P31)
+311. (or (not B32) P42 P22 P31)
+
+iteration=71, clauses=1540
+resolving clauses 291 and 202: (or (not P33)), (or (not B23) P33 P13 P24 P22)
+resolvent = (or (not B23) P13 P24 P22)
+312. (or (not B23) P13 P24 P22)
+
+iteration=72, clauses=1553
+resolving clauses 311 and 248: (or (not B32) P42 P22 P31), (or (not P22))
+resolvent = (or (not B32) P42 P31)
+313. (or (not B32) P42 P31)
+
+iteration=73, clauses=1562
+resolving clauses 311 and 268: (or (not B32) P42 P22 P31), (or (not P42))
+resolvent = (or (not B32) P22 P31)
+314. (or (not B32) P22 P31)
+
+iteration=74, clauses=1572
+resolving clauses 311 and 292: (or (not B32) P42 P22 P31), (or (not P31))
+resolvent = (or (not B32) P42 P22)
+315. (or (not B32) P42 P22)
+
+iteration=75, clauses=1582
+resolving clauses 312 and 233: (or (not B23) P13 P24 P22), (or (not P13))
+resolvent = (or (not B23) P24 P22)
+316. (or (not B23) P24 P22)
+
+iteration=76, clauses=1592
+resolving clauses 312 and 243: (or (not B23) P13 P24 P22), (or (not P24))
+resolvent = (or (not B23) P13 P22)
+317. (or (not B23) P13 P22)
+
+iteration=77, clauses=1602
+resolving clauses 312 and 248: (or (not B23) P13 P24 P22), (or (not P22))
+resolvent = (or (not B23) P13 P24)
+318. (or (not B23) P13 P24)
+
+iteration=78, clauses=1611
+resolving clauses 313 and 268: (or (not B32) P42 P31), (or (not P42))
+resolvent = (or (not B32) P31)
+319. (or (not B32) P31)
+
+iteration=79, clauses=1617
+resolving clauses 314 and 248: (or (not B32) P22 P31), (or (not P22))
+resolvent = (or (not B32) P31)
+
+
+iteration=80, clauses=1616
+resolving clauses 314 and 292: (or (not B32) P22 P31), (or (not P31))
+resolvent = (or (not B32) P22)
+320. (or (not B32) P22)
+
+iteration=81, clauses=1623
+resolving clauses 317 and 233: (or (not B23) P13 P22), (or (not P13))
+resolvent = (or (not B23) P22)
+321. (or (not B23) P22)
+
+iteration=82, clauses=1630
+resolving clauses 317 and 248: (or (not B23) P13 P22), (or (not P22))
+resolvent = (or (not B23) P13)
+322. (or (not B23) P13)
+
+iteration=83, clauses=1636
+resolving clauses 318 and 233: (or (not B23) P13 P24), (or (not P13))
+resolvent = (or (not B23) P24)
+323. (or (not B23) P24)
+
+iteration=84, clauses=1642
+resolving clauses 318 and 243: (or (not B23) P13 P24), (or (not P24))
+resolvent = (or (not B23) P13)
+
+
+iteration=85, clauses=1641
+resolving clauses 319 and 292: (or (not B32) P31), (or (not P31))
+resolvent = (or (not B32))
+
+
+iteration=86, clauses=1640
+resolving clauses 320 and 248: (or (not B32) P22), (or (not P22))
+resolvent = (or (not B32))
+
+
+iteration=87, clauses=1639
+resolving clauses 321 and 248: (or (not B23) P22), (or (not P22))
+resolvent = (or (not B23))
+324. (or (not B23))
+
+iteration=88, clauses=1642
+resolving clauses 322 and 233: (or (not B23) P13), (or (not P13))
+resolvent = (or (not B23))
+
+
+iteration=89, clauses=1641
+resolving clauses 323 and 243: (or (not B23) P24), (or (not P24))
+resolvent = (or (not B23))
+
+
+iteration=90, clauses=1640
+resolving clauses 315 and 248: (or (not B32) P42 P22), (or (not P22))
+resolvent = (or (not B32) P42)
+325. (or (not B32) P42)
+
+iteration=91, clauses=1646
+resolving clauses 316 and 243: (or (not B23) P24 P22), (or (not P24))
+resolvent = (or (not B23) P22)
+
+
+iteration=92, clauses=1645
+resolving clauses 324 and 53: (or (not B23)), (or (not P13) B23)
+resolvent = (or (not P13))
+
+
+iteration=93, clauses=1644
+resolving clauses 324 and 64: (or (not B23)), (or (not P22) B23)
+resolvent = (or (not P22))
+
+
+iteration=94, clauses=1643
+resolving clauses 324 and 71: (or (not B23)), (or (not P24) B23)
+resolvent = (or (not P24))
+
+
+iteration=95, clauses=1642
+resolving clauses 324 and 79: (or (not B23)), (or (not P33) B23)
+resolvent = (or (not P33))
+
+
+iteration=96, clauses=1641
+resolving clauses 325 and 268: (or (not B32) P42), (or (not P42))
+resolvent = (or (not B32))
+
+
+iteration=97, clauses=1640
+resolving clauses 316 and 248: (or (not B23) P24 P22), (or (not P22))
+resolvent = (or (not B23) P24)
+
+
+iteration=98, clauses=1639
+resolving clauses 315 and 268: (or (not B32) P42 P22), (or (not P42))
+resolvent = (or (not B32) P22)
+
+
+iteration=99, clauses=1638
+resolving clauses 313 and 292: (or (not B32) P42 P31), (or (not P31))
+resolvent = (or (not B32) P42)
+
+
+iteration=100, clauses=1637
+resolving clauses 292 and 205: (or (not P31)), (or (not B32) P42 P22 P33 P31)
+resolvent = (or (not B32) P42 P22 P33)
+326. (or (not B32) P42 P22 P33)
+
+iteration=101, clauses=1651
+resolving clauses 292 and 208: (or (not P31)), (or (not B41) P31 P42)
+resolvent = (or (not B41) P42)
+327. (or (not B41) P42)
+
+iteration=102, clauses=1655
+resolving clauses 326 and 248: (or (not B32) P42 P22 P33), (or (not P22))
+resolvent = (or (not B32) P42 P33)
+328. (or (not B32) P42 P33)
+
+iteration=103, clauses=1665
+resolving clauses 326 and 268: (or (not B32) P42 P22 P33), (or (not P42))
+resolvent = (or (not B32) P22 P33)
+329. (or (not B32) P22 P33)
+
+iteration=104, clauses=1676
+resolving clauses 326 and 291: (or (not B32) P42 P22 P33), (or (not P33))
+resolvent = (or (not B32) P42 P22)
+
+
+iteration=105, clauses=1675
+resolving clauses 327 and 268: (or (not B41) P42), (or (not P42))
+resolvent = (or (not B41))
+330. (or (not B41))
+
+iteration=106, clauses=1676
+resolving clauses 328 and 268: (or (not B32) P42 P33), (or (not P42))
+resolvent = (or (not B32) P33)
+331. (or (not B32) P33)
+
+iteration=107, clauses=1683
+resolving clauses 328 and 291: (or (not B32) P42 P33), (or (not P33))
+resolvent = (or (not B32) P42)
+
+
+iteration=108, clauses=1682
+resolving clauses 329 and 248: (or (not B32) P22 P33), (or (not P22))
+resolvent = (or (not B32) P33)
+
+
+iteration=109, clauses=1681
+resolving clauses 329 and 291: (or (not B32) P22 P33), (or (not P33))
+resolvent = (or (not B32) P22)
+
+
+iteration=110, clauses=1680
+resolving clauses 330 and 73: (or (not B41)), (or (not P31) B41)
+resolvent = (or (not P31))
+
+
+iteration=111, clauses=1679
+resolving clauses 330 and 89: (or (not B41)), (or (not P42) B41)
+resolvent = (or (not P42))
+
+
+iteration=112, clauses=1678
+resolving clauses 331 and 291: (or (not B32) P33), (or (not P33))
+resolvent = (or (not B32))
+
+
+iteration=113, clauses=1677
+resolving clauses 292 and 104: (or (not P31)), (or W31 P31 safe31)
+resolvent = (or W31 safe31)
+332. (or W31 safe31)
+
+iteration=114, clauses=1688
+resolving clauses 292 and 200: (or (not P31)), (or (not B21) P31 P11 P22)
+resolvent = (or (not B21) P11 P22)
+333. (or (not B21) P11 P22)
+
+iteration=115, clauses=1696
+resolving clauses 289 and 256: (or (not S33) W23 W34 W32), (or (not W34))
+resolvent = (or (not S33) W23 W32)
+334. (or (not S33) W23 W32)
+
+iteration=116, clauses=1727
+resolving clauses 333 and 248: (or (not B21) P11 P22), (or (not P22))
+resolvent = (or (not B21) P11)
+335. (or (not B21) P11)
+
+iteration=117, clauses=1731
+resolving clauses 333 and 282: (or (not B21) P11 P22), (or (not P11))
+resolvent = (or (not B21) P22)
+336. (or (not B21) P22)
+
+iteration=118, clauses=1737
+resolving clauses 334 and 261: (or (not S33) W23 W32), (or (not W32))
+resolvent = (or (not S33) W23)
+
+
+iteration=119, clauses=1736
+resolving clauses 334 and 285: (or (not S33) W23 W32), (or (not W23))
+resolvent = (or (not S33) W32)
+
+
+iteration=120, clauses=1735
+resolving clauses 335 and 282: (or (not B21) P11), (or (not P11))
+resolvent = (or (not B21))
+337. (or (not B21))
+
+iteration=121, clauses=1737
+resolving clauses 336 and 248: (or (not B21) P22), (or (not P22))
+resolvent = (or (not B21))
+
+
+iteration=122, clauses=1736
+resolving clauses 337 and 48: (or (not B21)), (or (not P11) B21)
+resolvent = (or (not P11))
+
+
+iteration=123, clauses=1735
+resolving clauses 337 and 63: (or (not B21)), (or (not P22) B21)
+resolvent = (or (not P22))
+
+
+iteration=124, clauses=1734
+resolving clauses 337 and 72: (or (not B21)), (or (not P31) B21)
+resolvent = (or (not P31))
+
+
+iteration=125, clauses=1733
+resolving clauses 290 and 108: (or (not W41)), (or W41 P41 safe41)
+resolvent = (or P41 safe41)
+338. (or P41 safe41)
+
+iteration=126, clauses=1734
+resolving clauses 290 and 220: (or (not W41)), (or (not S31) W41 W21 W32)
+resolvent = (or (not S31) W21 W32)
+339. (or (not S31) W21 W32)
+
+iteration=127, clauses=1764
+resolving clauses 7 and 230: (or (not W13) S14), (or (not S14))
+resolvent = (or (not W13))
+
+
+iteration=128, clauses=1763
+resolving clauses 339 and 261: (or (not S31) W21 W32), (or (not W32))
+resolvent = (or (not S31) W21)
+340. (or (not S31) W21)
+
+iteration=129, clauses=1780
+resolving clauses 339 and 279: (or (not S31) W21 W32), (or (not W21))
+resolvent = (or (not S31) W32)
+341. (or (not S31) W32)
+
+iteration=130, clauses=1796
+resolving clauses 340 and 279: (or (not S31) W21), (or (not W21))
+resolvent = (or (not S31))
+342. (or (not S31))
+
+iteration=131, clauses=1798
+resolving clauses 341 and 261: (or (not S31) W32), (or (not W32))
+resolvent = (or (not S31))
+
+
+iteration=132, clauses=1797
+resolving clauses 342 and 11: (or (not S31)), (or (not W21) S31)
+resolvent = (or (not W21))
+
+
+iteration=133, clauses=1796
+resolving clauses 342 and 29: (or (not S31)), (or (not W32) S31)
+resolvent = (or (not W32))
+
+
+iteration=134, clauses=1795
+resolving clauses 342 and 38: (or (not S31)), (or (not W41) S31)
+resolvent = (or (not W41))
+
+
+iteration=135, clauses=1794
+resolving clauses 8 and 245: (or (not W14) S24), (or (not S24))
+resolvent = (or (not W14))
+
+
+iteration=136, clauses=1793
+resolving clauses 69 and 229: (or (not P24) B14), (or (not B14))
+resolvent = (or (not P24))
+
+
+iteration=137, clauses=1792
+resolving clauses 288 and 256: (or (not S33) W43 W34 W32), (or (not W34))
+resolvent = (or (not S33) W43 W32)
+343. (or (not S33) W43 W32)
+
+iteration=138, clauses=1823
+resolving clauses 288 and 261: (or (not S33) W43 W34 W32), (or (not W32))
+resolvent = (or (not S33) W43 W34)
+344. (or (not S33) W43 W34)
+
+iteration=139, clauses=1856
+resolving clauses 343 and 261: (or (not S33) W43 W32), (or (not W32))
+resolvent = (or (not S33) W43)
+345. (or (not S33) W43)
+
+iteration=140, clauses=1874
+resolving clauses 343 and 286: (or (not S33) W43 W32), (or (not W43))
+resolvent = (or (not S33) W32)
+
+
+iteration=141, clauses=1873
+resolving clauses 344 and 256: (or (not S33) W43 W34), (or (not W34))
+resolvent = (or (not S33) W43)
+
+
+iteration=142, clauses=1872
+resolving clauses 344 and 286: (or (not S33) W43 W34), (or (not W43))
+resolvent = (or (not S33) W34)
+
+
+iteration=143, clauses=1871
+resolving clauses 345 and 286: (or (not S33) W43), (or (not W43))
+resolvent = (or (not S33))
+
+
+iteration=144, clauses=1870
+resolving clauses 288 and 286: (or (not S33) W43 W34 W32), (or (not W43))
+resolvent = (or (not S33) W34 W32)
+
+
+iteration=145, clauses=1869
+resolving clauses 111 and 263: (or W44 P44 safe44), (or (not P44))
+resolvent = (or W44 safe44)
+346. (or W44 safe44)
+
+iteration=146, clauses=1886
+resolving clauses 111 and 266: (or W44 P44 safe44), (or (not W44))
+resolvent = (or P44 safe44)
+347. (or P44 safe44)
+
+iteration=147, clauses=1888
+resolving clauses 346 and 266: (or W44 safe44), (or (not W44))
+resolvent = (or safe44)
+
+
+iteration=148, clauses=1887
+resolving clauses 347 and 263: (or P44 safe44), (or (not P44))
+resolvent = (or safe44)
+
+
+iteration=149, clauses=1886
+resolving clauses 283 and 241: (or W12 safe12), (or (not W12))
+resolvent = (or safe12)
+
+
+iteration=150, clauses=1885
+resolving clauses 286 and 225: (or (not W43)), (or (not S42) W32 W43 W41)
+resolvent = (or (not S42) W32 W41)
+348. (or (not S42) W32 W41)
+
+iteration=151, clauses=1909
+resolving clauses 286 and 227: (or (not W43)), (or (not S44) W34 W43)
+resolvent = (or (not S44) W34)
+349. (or (not S44) W34)
+
+iteration=152, clauses=1925
+resolving clauses 348 and 261: (or (not S42) W32 W41), (or (not W32))
+resolvent = (or (not S42) W41)
+350. (or (not S42) W41)
+
+iteration=153, clauses=1935
+resolving clauses 348 and 290: (or (not S42) W32 W41), (or (not W41))
+resolvent = (or (not S42) W32)
+
+
+iteration=154, clauses=1934
+resolving clauses 349 and 256: (or (not S44) W34), (or (not W34))
+resolvent = (or (not S44))
+
+
+iteration=155, clauses=1933
+resolving clauses 350 and 290: (or (not S42) W41), (or (not W41))
+resolvent = (or (not S42))
+
+
+iteration=156, clauses=1932
+resolving clauses 287 and 211: (or (not P43)), (or (not B44) P34 P43)
+resolvent = (or (not B44) P34)
+351. (or (not B44) P34)
+
+iteration=157, clauses=1936
+resolving clauses 287 and 206: (or (not P43)), (or (not B33) P43 P23 P34 P32)
+resolvent = (or (not B33) P23 P34 P32)
+352. (or (not B33) P23 P34 P32)
+
+iteration=158, clauses=1949
+resolving clauses 351 and 253: (or (not B44) P34), (or (not P34))
+resolvent = (or (not B44))
+
+
+iteration=159, clauses=1948
+resolving clauses 352 and 253: (or (not B33) P23 P34 P32), (or (not P34))
+resolvent = (or (not B33) P23 P32)
+353. (or (not B33) P23 P32)
+
+iteration=160, clauses=1958
+resolving clauses 352 and 258: (or (not B33) P23 P34 P32), (or (not P32))
+resolvent = (or (not B33) P23 P34)
+354. (or (not B33) P23 P34)
+
+iteration=161, clauses=1967
+resolving clauses 353 and 258: (or (not B33) P23 P32), (or (not P32))
+resolvent = (or (not B33) P23)
+355. (or (not B33) P23)
+
+iteration=162, clauses=1973
+resolving clauses 354 and 253: (or (not B33) P23 P34), (or (not P34))
+resolvent = (or (not B33) P23)
+
+
+iteration=163, clauses=1972
+resolving clauses 287 and 209: (or (not P43)), (or (not B42) P32 P43 P41)
+resolvent = (or (not B42) P32 P41)
+356. (or (not B42) P32 P41)
+
+iteration=164, clauses=1980
+resolving clauses 284 and 238: (or P12 safe12), (or (not P12))
+resolvent = (or safe12)
+
+
+iteration=165, clauses=1979
+resolving clauses 356 and 258: (or (not B42) P32 P41), (or (not P32))
+resolvent = (or (not B42) P41)
+357. (or (not B42) P41)
+
+iteration=166, clauses=1983
+resolving clauses 356 and 269: (or (not B42) P32 P41), (or B42)
+resolvent = (or P32 P41)
+358. (or P32 P41)
+
+iteration=167, clauses=1989
+resolving clauses 357 and 269: (or (not B42) P41), (or B42)
+resolvent = (or P41)
+359. (or P41)
+
+iteration=168, clauses=1990
+resolving clauses 358 and 258: (or P32 P41), (or (not P32))
+resolvent = (or P41)
+
+
+iteration=169, clauses=1989
+resolving clauses 359 and 86: (or P41), (or (not P41) B31)
+resolvent = (or B31)
+360. (or B31)
+
+iteration=170, clauses=1989
+resolving clauses 359 and 87: (or P41), (or (not P41) B42)
+resolvent = (or B42)
+
+
+iteration=171, clauses=1988
+resolving clauses 360 and 204: (or B31), (or (not B31) P41 P21 P32)
+resolvent = (or P41 P21 P32)
+361. (or P41 P21 P32)
+
+iteration=172, clauses=1997
+resolving clauses 285 and 214: (or (not W23)), (or (not S13) W23 W14 W12)
+resolvent = (or (not S13) W14 W12)
+362. (or (not S13) W14 W12)
+
+iteration=173, clauses=2021
+resolving clauses 361 and 258: (or P41 P21 P32), (or (not P32))
+resolvent = (or P41 P21)
+363. (or P41 P21)
+
+iteration=174, clauses=2025
+resolving clauses 362 and 231: (or (not S13) W14 W12), (or (not W14))
+resolvent = (or (not S13) W12)
+364. (or (not S13) W12)
+
+iteration=175, clauses=2042
+resolving clauses 362 and 241: (or (not S13) W14 W12), (or (not W12))
+resolvent = (or (not S13) W14)
+365. (or (not S13) W14)
+
+iteration=176, clauses=2052
+resolving clauses 364 and 241: (or (not S13) W12), (or (not W12))
+resolvent = (or (not S13))
+
+
+iteration=177, clauses=2051
+resolving clauses 285 and 219: (or (not W23)), (or (not S24) W34 W14 W23)
+resolvent = (or (not S24) W34 W14)
+366. (or (not S24) W34 W14)
+
+iteration=178, clauses=2075
+resolving clauses 287 and 110: (or (not P43)), (or W43 P43 safe43)
+resolvent = (or W43 safe43)
+367. (or W43 safe43)
+
+iteration=179, clauses=2090
+resolving clauses 286 and 110: (or (not W43)), (or W43 P43 safe43)
+resolvent = (or P43 safe43)
+368. (or P43 safe43)
+
+iteration=180, clauses=2093
+resolving clauses 285 and 217: (or (not W23)), (or (not S22) W32 W12 W23 W21)
+resolvent = (or (not S22) W32 W12 W21)
+369. (or (not S22) W32 W12 W21)
+
+iteration=181, clauses=2138
+resolving clauses 285 and 102: (or (not W23)), (or W23 P23 safe23)
+resolvent = (or P23 safe23)
+370. (or P23 safe23)
+
+iteration=182, clauses=2141
+resolving clauses 109 and 268: (or W42 P42 safe42), (or (not P42))
+resolvent = (or W42 safe42)
+371. (or W42 safe42)
+
+iteration=183, clauses=2153
+resolving clauses 109 and 271: (or W42 P42 safe42), (or (not W42))
+resolvent = (or P42 safe42)
+372. (or P42 safe42)
+
+iteration=184, clauses=2156
+resolving clauses 282 and 197: (or (not P11)), (or (not B12) P22 P13 P11)
+resolvent = (or (not B12) P22 P13)
+373. (or (not B12) P22 P13)
+
+iteration=185, clauses=2165
+resolving clauses 282 and 200: (or (not P11)), (or (not B21) P31 P11 P22)
+resolvent = (or (not B21) P31 P22)
+374. (or (not B21) P31 P22)
+
+iteration=186, clauses=2174
+resolving clauses 279 and 220: (or (not W21)), (or (not S31) W41 W21 W32)
+resolvent = (or (not S31) W41 W32)
+375. (or (not S31) W41 W32)
+
+iteration=187, clauses=2198
+resolving clauses 280 and 236: (or W13 safe13), (or (not W13))
+resolvent = (or safe13)
+
+
+iteration=188, clauses=2197
+resolving clauses 281 and 233: (or P13 safe13), (or (not P13))
+resolvent = (or safe13)
+
+
+iteration=189, clauses=2196
+resolving clauses 282 and 96: (or (not P11)), (or W11 P11 safe11)
+resolvent = (or W11 safe11)
+376. (or W11 safe11)
+
+iteration=190, clauses=2213
+resolving clauses 226 and 266: (or (not S43) W33 W44 W42), (or (not W44))
+resolvent = (or (not S43) W33 W42)
+377. (or (not S43) W33 W42)
+
+iteration=191, clauses=2242
+resolving clauses 276 and 248: (or P22 safe22), (or (not P22))
+resolvent = (or safe22)
+
+
+iteration=192, clauses=2241
+resolving clauses 277 and 231: (or W14 safe14), (or (not W14))
+resolvent = (or safe14)
+
+
+iteration=193, clauses=2240
+resolving clauses 278 and 228: (or P14 safe14), (or (not P14))
+resolvent = (or safe14)
+
+
+iteration=194, clauses=2239
+resolving clauses 279 and 212: (or (not W21)), (or (not S11) W21 W12)
+resolvent = (or (not S11) W12)
+378. (or (not S11) W12)
+
+iteration=195, clauses=2255
+resolving clauses 279 and 217: (or (not W21)), (or (not S22) W32 W12 W23 W21)
+resolvent = (or (not S22) W32 W12 W23)
+379. (or (not S22) W32 W12 W23)
+
+iteration=196, clauses=2299
+resolving clauses 279 and 100: (or (not W21)), (or W21 P21 safe21)
+resolvent = (or P21 safe21)
+380. (or P21 safe21)
+
+iteration=197, clauses=2301
+resolving clauses 375 and 290: (or (not S31) W41 W32), (or (not W41))
+resolvent = (or (not S31) W32)
+
+
+iteration=198, clauses=2300
+resolving clauses 226 and 271: (or (not S43) W33 W44 W42), (or (not W42))
+resolvent = (or (not S43) W33 W44)
+381. (or (not S43) W33 W44)
+
+iteration=199, clauses=2333
+resolving clauses 275 and 251: (or W22 safe22), (or (not W22))
+resolvent = (or safe22)
+
+
+iteration=200, clauses=2332
+resolving clauses 226 and 273: (or (not S43) W33 W44 W42), (or (not W33))
+resolvent = (or (not S43) W44 W42)
+382. (or (not S43) W44 W42)
+
+iteration=201, clauses=2362
+resolving clauses 274 and 213: (or (not W11)), (or (not S12) W22 W13 W11)
+resolvent = (or (not S12) W22 W13)
+383. (or (not S12) W22 W13)
+
+iteration=202, clauses=2391
+resolving clauses 274 and 216: (or (not W11)), (or (not S21) W31 W11 W22)
+resolvent = (or (not S21) W31 W22)
+384. (or (not S21) W31 W22)
+
+iteration=203, clauses=2419
+resolving clauses 227 and 256: (or (not S44) W34 W43), (or (not W34))
+resolvent = (or (not S44) W43)
+385. (or (not S44) W43)
+
+iteration=204, clauses=2435
+resolving clauses 274 and 96: (or (not W11)), (or W11 P11 safe11)
+resolvent = (or P11 safe11)
+386. (or P11 safe11)
+
+iteration=205, clauses=2437
+resolving clauses 378 and 241: (or (not S11) W12), (or (not W12))
+resolvent = (or (not S11))
+387. (or (not S11))
+
+iteration=206, clauses=2438
+resolving clauses 381 and 266: (or (not S43) W33 W44), (or (not W44))
+resolvent = (or (not S43) W33)
+388. (or (not S43) W33)
+
+iteration=207, clauses=2455
+resolving clauses 383 and 236: (or (not S12) W22 W13), (or (not W13))
+resolvent = (or (not S12) W22)
+389. (or (not S12) W22)
+
+iteration=208, clauses=2472
+resolving clauses 385 and 286: (or (not S44) W43), (or (not W43))
+resolvent = (or (not S44))
+
+
+iteration=209, clauses=2471
+resolving clauses 386 and 282: (or P11 safe11), (or (not P11))
+resolvent = (or safe11)
+390. (or safe11)
+
+iteration=210, clauses=2470
+resolving clauses 387 and 3: (or (not S11)), (or (not W12) S11)
+resolvent = (or (not W12))
+
+
+iteration=211, clauses=2469
+resolving clauses 387 and 10: (or (not S11)), (or (not W21) S11)
+resolvent = (or (not W21))
+
+
+iteration=212, clauses=2468
+resolving clauses 388 and 273: (or (not S43) W33), (or (not W33))
+resolvent = (or (not S43))
+391. (or (not S43))
+
+iteration=213, clauses=2470
+resolving clauses 389 and 251: (or (not S12) W22), (or (not W22))
+resolvent = (or (not S12))
+
+
+iteration=214, clauses=2469
+resolving clauses 383 and 251: (or (not S12) W22 W13), (or (not W22))
+resolvent = (or (not S12) W13)
+392. (or (not S12) W13)
+
+iteration=215, clauses=2483
+resolving clauses 384 and 251: (or (not S21) W31 W22), (or (not W22))
+resolvent = (or (not S21) W31)
+393. (or (not S21) W31)
+
+iteration=216, clauses=2496
+resolving clauses 382 and 266: (or (not S43) W44 W42), (or (not W44))
+resolvent = (or (not S43) W42)
+394. (or (not S43) W42)
+
+iteration=217, clauses=2510
+resolving clauses 391 and 32: (or (not S43)), (or (not W33) S43)
+resolvent = (or (not W33))
+
+
+iteration=218, clauses=2509
+resolving clauses 391 and 42: (or (not S43)), (or (not W42) S43)
+resolvent = (or (not W42))
+
+
+iteration=219, clauses=2508
+resolving clauses 391 and 47: (or (not S43)), (or (not W44) S43)
+resolvent = (or (not W44))
+
+
+iteration=220, clauses=2507
+resolving clauses 392 and 236: (or (not S12) W13), (or (not W13))
+resolvent = (or (not S12))
+
+
+iteration=221, clauses=2506
+resolving clauses 394 and 271: (or (not S43) W42), (or (not W42))
+resolvent = (or (not S43))
+
+
+iteration=222, clauses=2505
+resolving clauses 382 and 271: (or (not S43) W44 W42), (or (not W42))
+resolvent = (or (not S43) W44)
+395. (or (not S43) W44)
+
+iteration=223, clauses=2524
+resolving clauses 381 and 273: (or (not S43) W33 W44), (or (not W33))
+resolvent = (or (not S43) W44)
+
+
+iteration=224, clauses=2523
+resolving clauses 379 and 285: (or (not S22) W32 W12 W23), (or (not W23))
+resolvent = (or (not S22) W32 W12)
+396. (or (not S22) W32 W12)
+
+iteration=225, clauses=2554
+resolving clauses 27 and 250: (or (not W32) S22), (or (not S22))
+resolvent = (or (not W32))
+
+
+iteration=226, clauses=2553
+resolving clauses 395 and 266: (or (not S43) W44), (or (not W44))
+resolvent = (or (not S43))
+
+
+iteration=227, clauses=2552
+resolving clauses 28 and 270: (or (not W32) S42), (or (not S42))
+resolvent = (or (not W32))
+
+
+iteration=228, clauses=2551
+resolving clauses 396 and 241: (or (not S22) W32 W12), (or (not W12))
+resolvent = (or (not S22) W32)
+397. (or (not S22) W32)
+
+iteration=229, clauses=2568
+resolving clauses 396 and 261: (or (not S22) W32 W12), (or (not W32))
+resolvent = (or (not S22) W12)
+398. (or (not S22) W12)
+
+iteration=230, clauses=2586
+resolving clauses 62 and 259: (or (not P22) B32), (or (not B32))
+resolvent = (or (not P22))
+
+
+iteration=231, clauses=2585
+resolving clauses 397 and 261: (or (not S22) W32), (or (not W32))
+resolvent = (or (not S22))
+
+
+iteration=232, clauses=2584
+resolving clauses 398 and 241: (or (not S22) W12), (or (not W12))
+resolvent = (or (not S22))
+
+
+iteration=233, clauses=2583
+resolving clauses 107 and 253: (or W34 P34 safe34), (or (not P34))
+resolvent = (or W34 safe34)
+399. (or W34 safe34)
+
+iteration=234, clauses=2598
+resolving clauses 107 and 256: (or W34 P34 safe34), (or (not W34))
+resolvent = (or P34 safe34)
+400. (or P34 safe34)
+
+iteration=235, clauses=2601
+resolving clauses 223 and 266: (or (not S34) W44 W24 W33), (or (not W44))
+resolvent = (or (not S34) W24 W33)
+401. (or (not S34) W24 W33)
+
+iteration=236, clauses=2631
+resolving clauses 399 and 256: (or W34 safe34), (or (not W34))
+resolvent = (or safe34)
+
+
+iteration=237, clauses=2630
+resolving clauses 400 and 253: (or P34 safe34), (or (not P34))
+resolvent = (or safe34)
+
+
+iteration=238, clauses=2629
+resolving clauses 401 and 246: (or (not S34) W24 W33), (or (not W24))
+resolvent = (or (not S34) W33)
+402. (or (not S34) W33)
+
+iteration=239, clauses=2647
+resolving clauses 401 and 255: (or (not S34) W24 W33), (or S34)
+resolvent = (or W24 W33)
+403. (or W24 W33)
+
+iteration=240, clauses=2675
+resolving clauses 401 and 273: (or (not S34) W24 W33), (or (not W33))
+resolvent = (or (not S34) W24)
+404. (or (not S34) W24)
+
+iteration=241, clauses=2690
+resolving clauses 402 and 255: (or (not S34) W33), (or S34)
+resolvent = (or W33)
+405. (or W33)
+
+iteration=242, clauses=2705
+resolving clauses 402 and 273: (or (not S34) W33), (or (not W33))
+resolvent = (or (not S34))
+406. (or (not S34))
+
+iteration=243, clauses=2708
+resolving clauses 403 and 246: (or W24 W33), (or (not W24))
+resolvent = (or W33)
+
+
+iteration=244, clauses=2707
+resolving clauses 403 and 273: (or W24 W33), (or (not W33))
+resolvent = (or W24)
+407. (or W24)
+
+iteration=245, clauses=2719
+resolving clauses 404 and 246: (or (not S34) W24), (or (not W24))
+resolvent = (or (not S34))
+
+
+iteration=246, clauses=2718
+resolving clauses 404 and 255: (or (not S34) W24), (or S34)
+resolvent = (or W24)
+
+
+iteration=247, clauses=2717
+resolving clauses 405 and 31: (or W33), (or (not W33) S23)
+resolvent = (or S23)
+408. (or S23)
+
+iteration=248, clauses=2717
+resolving clauses 405 and 32: (or W33), (or (not W33) S43)
+resolvent = (or S43)
+409. (or S43)
+
+iteration=249, clauses=2724
+resolving clauses 405 and 188: (or W33), (or (not W33) (not W44))
+resolvent = (or (not W44))
+
+
+iteration=250, clauses=2723
+resolving clauses 405 and 273: (or W33), (or (not W33))
+resolvent = (or)
+Success! Derived empty clause, so W33 is entailed

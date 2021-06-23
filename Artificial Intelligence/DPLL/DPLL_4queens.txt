@@ -1,0 +1,171 @@
+
+model: Q11=? Q12=? Q13=? Q14=? Q21=? Q22=? Q23=? Q24=? Q31=? Q32=? Q33=? Q34=? Q41=? Q42=? Q43=? Q44=? 
+num clauses satisfied: 0 out of 80
+trying Q11=1
+
+model: Q11=T Q12=? Q13=? Q14=? Q21=? Q22=? Q23=? Q24=? Q31=? Q32=? Q33=? Q34=? Q41=? Q42=? Q43=? Q44=? 
+num clauses satisfied: 0 out of 80
+forcing Q12=0
+
+model: Q12=F Q11=T Q13=? Q14=? Q21=? Q22=? Q23=? Q24=? Q31=? Q32=? Q33=? Q34=? Q41=? Q42=? Q43=? Q44=? 
+num clauses satisfied: 1 out of 80
+forcing Q13=0
+
+model: Q13=F Q11=T Q12=F Q14=? Q21=? Q22=? Q23=? Q24=? Q31=? Q32=? Q33=? Q34=? Q41=? Q42=? Q43=? Q44=? 
+num clauses satisfied: 3 out of 80
+forcing Q14=0
+
+model: Q13=F Q11=T Q14=F Q12=F Q21=? Q22=? Q23=? Q24=? Q31=? Q32=? Q33=? Q34=? Q41=? Q42=? Q43=? Q44=? 
+num clauses satisfied: 7 out of 80
+forcing Q21=0
+
+model: Q21=F Q13=F Q11=T Q14=F Q12=F Q22=? Q23=? Q24=? Q31=? Q32=? Q33=? Q34=? Q41=? Q42=? Q43=? Q44=? 
+num clauses satisfied: 9 out of 80
+forcing Q31=0
+
+model: Q21=F Q31=F Q13=F Q11=T Q14=F Q12=F Q22=? Q23=? Q24=? Q32=? Q33=? Q34=? Q41=? Q42=? Q43=? Q44=? 
+num clauses satisfied: 12 out of 80
+forcing Q41=0
+
+model: Q41=F Q12=F Q14=F Q11=T Q13=F Q31=F Q21=F Q22=? Q23=? Q24=? Q32=? Q33=? Q34=? Q42=? Q43=? Q44=? 
+num clauses satisfied: 16 out of 80
+forcing Q22=0
+
+model: Q41=F Q12=F Q14=F Q22=F Q11=T Q13=F Q31=F Q21=F Q23=? Q24=? Q32=? Q33=? Q34=? Q42=? Q43=? Q44=? 
+num clauses satisfied: 21 out of 80
+forcing Q33=0
+
+model: Q33=F Q41=F Q12=F Q14=F Q22=F Q11=T Q13=F Q31=F Q21=F Q23=? Q24=? Q32=? Q34=? Q42=? Q43=? Q44=? 
+num clauses satisfied: 25 out of 80
+forcing Q44=0
+
+model: Q44=F Q33=F Q41=F Q12=F Q14=F Q22=F Q11=T Q13=F Q31=F Q21=F Q23=? Q24=? Q32=? Q34=? Q42=? Q43=? 
+num clauses satisfied: 30 out of 80
+trying Q23=1
+
+model: Q44=F Q33=F Q41=F Q12=F Q14=F Q23=T Q22=F Q11=T Q13=F Q31=F Q21=F Q24=? Q32=? Q34=? Q42=? Q43=? 
+num clauses satisfied: 37 out of 80
+forcing Q24=0
+
+model: Q44=F Q33=F Q41=F Q12=F Q14=F Q24=F Q23=T Q22=F Q11=T Q13=F Q31=F Q21=F Q32=? Q34=? Q42=? Q43=? 
+num clauses satisfied: 45 out of 80
+forcing Q43=0
+
+model: Q43=F Q44=F Q33=F Q41=F Q12=F Q14=F Q24=F Q23=T Q22=F Q11=T Q13=F Q31=F Q21=F Q32=? Q34=? Q42=? 
+num clauses satisfied: 51 out of 80
+forcing Q42=1
+
+model: Q42=T Q43=F Q44=F Q33=F Q41=F Q12=F Q14=F Q24=F Q23=T Q22=F Q11=T Q13=F Q31=F Q21=F Q32=? Q34=? 
+num clauses satisfied: 60 out of 80
+forcing Q32=0
+
+model: Q32=F Q42=T Q43=F Q44=F Q33=F Q41=F Q12=F Q14=F Q24=F Q23=T Q22=F Q11=T Q13=F Q31=F Q21=F Q34=? 
+num clauses satisfied: 70 out of 80
+forcing Q34=1
+backtracking...
+trying Q23=0
+
+model: Q44=F Q33=F Q41=F Q12=F Q14=F Q23=F Q22=F Q11=T Q13=F Q31=F Q21=F Q24=? Q32=? Q34=? Q42=? Q43=? 
+num clauses satisfied: 37 out of 80
+forcing Q24=1
+
+model: Q44=F Q33=F Q41=F Q12=F Q14=F Q24=T Q23=F Q22=F Q11=T Q13=F Q31=F Q21=F Q32=? Q34=? Q42=? Q43=? 
+num clauses satisfied: 45 out of 80
+forcing Q34=0
+
+model: Q44=F Q34=F Q33=F Q41=F Q12=F Q14=F Q24=T Q23=F Q22=F Q11=T Q13=F Q31=F Q21=F Q32=? Q42=? Q43=? 
+num clauses satisfied: 52 out of 80
+forcing Q32=1
+
+model: Q32=T Q44=F Q34=F Q33=F Q41=F Q12=F Q14=F Q24=T Q23=F Q22=F Q11=T Q13=F Q31=F Q21=F Q42=? Q43=? 
+num clauses satisfied: 62 out of 80
+forcing Q42=0
+
+model: Q42=F Q32=T Q44=F Q34=F Q33=F Q41=F Q12=F Q14=F Q24=T Q23=F Q22=F Q11=T Q13=F Q31=F Q21=F Q43=? 
+num clauses satisfied: 70 out of 80
+forcing Q43=1
+backtracking...
+trying Q11=0
+
+model: Q11=F Q12=? Q13=? Q14=? Q21=? Q22=? Q23=? Q24=? Q31=? Q32=? Q33=? Q34=? Q41=? Q42=? Q43=? Q44=? 
+num clauses satisfied: 0 out of 80
+trying Q12=1
+
+model: Q12=T Q11=F Q13=? Q14=? Q21=? Q22=? Q23=? Q24=? Q31=? Q32=? Q33=? Q34=? Q41=? Q42=? Q43=? Q44=? 
+num clauses satisfied: 1 out of 80
+forcing Q13=0
+
+model: Q13=F Q12=T Q11=F Q14=? Q21=? Q22=? Q23=? Q24=? Q31=? Q32=? Q33=? Q34=? Q41=? Q42=? Q43=? Q44=? 
+num clauses satisfied: 3 out of 80
+forcing Q14=0
+
+model: Q14=F Q13=F Q12=T Q11=F Q21=? Q22=? Q23=? Q24=? Q31=? Q32=? Q33=? Q34=? Q41=? Q42=? Q43=? Q44=? 
+num clauses satisfied: 7 out of 80
+forcing Q22=0
+
+model: Q14=F Q13=F Q12=T Q22=F Q11=F Q21=? Q23=? Q24=? Q31=? Q32=? Q33=? Q34=? Q41=? Q42=? Q43=? Q44=? 
+num clauses satisfied: 10 out of 80
+forcing Q32=0
+
+model: Q32=F Q14=F Q13=F Q12=T Q22=F Q11=F Q21=? Q23=? Q24=? Q31=? Q33=? Q34=? Q41=? Q42=? Q43=? Q44=? 
+num clauses satisfied: 13 out of 80
+forcing Q42=0
+
+model: Q42=F Q32=F Q14=F Q13=F Q12=T Q22=F Q11=F Q21=? Q23=? Q24=? Q31=? Q33=? Q34=? Q41=? Q43=? Q44=? 
+num clauses satisfied: 16 out of 80
+forcing Q23=0
+
+model: Q42=F Q32=F Q14=F Q13=F Q12=T Q23=F Q22=F Q11=F Q21=? Q24=? Q31=? Q33=? Q34=? Q41=? Q43=? Q44=? 
+num clauses satisfied: 21 out of 80
+forcing Q34=0
+
+model: Q34=F Q42=F Q32=F Q14=F Q13=F Q12=T Q23=F Q22=F Q11=F Q21=? Q24=? Q31=? Q33=? Q41=? Q43=? Q44=? 
+num clauses satisfied: 25 out of 80
+forcing Q21=0
+
+model: Q21=F Q34=F Q42=F Q32=F Q14=F Q13=F Q12=T Q23=F Q22=F Q11=F Q24=? Q31=? Q33=? Q41=? Q43=? Q44=? 
+num clauses satisfied: 30 out of 80
+forcing Q24=1
+
+model: Q21=F Q34=F Q42=F Q32=F Q14=F Q13=F Q12=T Q24=T Q23=F Q22=F Q11=F Q31=? Q33=? Q41=? Q43=? Q44=? 
+num clauses satisfied: 38 out of 80
+forcing Q44=0
+
+model: Q44=F Q21=F Q34=F Q42=F Q32=F Q14=F Q13=F Q12=T Q24=T Q23=F Q22=F Q11=F Q31=? Q33=? Q41=? Q43=? 
+num clauses satisfied: 44 out of 80
+forcing Q33=0
+
+model: Q44=F Q21=F Q33=F Q34=F Q42=F Q32=F Q14=F Q13=F Q12=T Q24=T Q23=F Q22=F Q11=F Q31=? Q41=? Q43=? 
+num clauses satisfied: 53 out of 80
+forcing Q31=1
+
+model: Q31=T Q44=F Q21=F Q33=F Q34=F Q42=F Q32=F Q14=F Q13=F Q12=T Q24=T Q23=F Q22=F Q11=F Q41=? Q43=? 
+num clauses satisfied: 62 out of 80
+forcing Q41=0
+
+model: Q41=F Q31=T Q44=F Q21=F Q33=F Q34=F Q42=F Q32=F Q14=F Q13=F Q12=T Q24=T Q23=F Q22=F Q11=F Q43=? 
+num clauses satisfied: 70 out of 80
+forcing Q43=1
+
+model: Q43=T Q41=F Q31=T Q44=F Q21=F Q33=F Q34=F Q42=F Q32=F Q14=F Q13=F Q12=T Q24=T Q23=F Q22=F Q11=F 
+num clauses satisfied: 80 out of 80
+
+Success!
+Number of DPLL calls=39 (WITH unit-clause heuristic)
+Here is the model: 
+Q11 : 0
+Q12 : 1
+Q13 : 0
+Q14 : 0
+Q21 : 0
+Q22 : 0
+Q23 : 0
+Q24 : 1
+Q31 : 1
+Q32 : 0
+Q33 : 0
+Q34 : 0
+Q41 : 0
+Q42 : 0
+Q43 : 1
+Q44 : 0
